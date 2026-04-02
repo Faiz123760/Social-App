@@ -21,7 +21,7 @@
 ## 📸 Live Demo
 
 ### 🌍 Frontend (Production)
-**URL:** [https://social-app-frontend-puce.vercel.app](https://social-app-frontend-puce.vercel.app)
+**URL:** [https://social-app-frontend-puce.vercel.app](https://social-app-frontend-puce.vercel.app/login)
 
 ### 🔧 Backend API (Production)
 **Base URL:** [https://social-app-backend-uhj3.onrender.com](https://social-app-backend-uhj3.onrender.com)
